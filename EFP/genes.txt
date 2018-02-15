@@ -1,0 +1,3 @@
+gene	accession	hmmsource
+EFP	PF01132.19	pfam
+eIF-5a	PF01287.19	pfam
