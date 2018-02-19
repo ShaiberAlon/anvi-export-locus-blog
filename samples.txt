@@ -1,0 +1,7 @@
+sample	path
+Salmonella_enterica	GCF_000006945.2_ASM694v2_genomic.fna
+Coxiella_burnetii	GCF_000007765.2_ASM776v2_genomic.fna
+Thermus_thermophilus	GCF_000091545.1_ASM9154v1_genomic.fna
+Escherichia_coli	GCF_000005845.2_ASM584v2_genomic.fna
+Candidatus_Saccharibacteria	GCF_000803625.1_ASM80362v1_genomic.fna
+Neisseria_meningitidis	GCF_000008805.1_ASM880v1_genomic.fna
